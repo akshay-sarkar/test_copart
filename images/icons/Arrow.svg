@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="8px" viewBox="0 0 4 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HomepageV2_Comp_SignedOut_desktop" transform="translate(-1381.000000, -103.000000)" fill="#FFFFFF">
+            <g id="Header">
+                <g id="Nav" transform="translate(0.000000, 90.000000)">
+                    <g id="Sign-in" transform="translate(1218.000000, 0.000000)">
+                        <path d="M163.140972,13.9681011 L164.053438,16.9999942 L163.140972,20.0318873 C163.061392,20.296314 163.211239,20.5751872 163.475666,20.654768 C163.660745,20.7104687 163.861352,20.6545097 163.990877,20.5110507 L166.85837,17.3350639 C167.030214,17.1447333 167.030214,16.855255 166.85837,16.6649244 L163.990877,13.4889376 C163.805823,13.283975 163.489652,13.2678359 163.284689,13.4528898 C163.141231,13.5824142 163.085271,13.7830214 163.140972,13.9681011 Z" id="Path-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

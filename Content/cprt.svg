@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="70px" viewBox="0 0 98 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>CPRT</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="98" height="70" rx="8"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="98" height="70" rx="1.5"></rect>
+        <filter x="-1.8%" y="-1.8%" width="103.6%" height="105.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="98" height="70"></rect>
+        <filter x="-1.8%" y="-1.8%" width="103.6%" height="105.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="98" height="70" rx="1.5"></rect>
+        <filter x="-0.3%" y="-0.4%" width="100.5%" height="100.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.12 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="V3---Vinnie-Edits" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CorpSite_Homepage_V2.4" transform="translate(-551.000000, -3367.000000)">
+            <g id="Footer" transform="translate(0.000000, 2789.000000)">
+                <g id="Footer-Bottom" transform="translate(100.000000, 264.000000)">
+                    <g id="Flags">
+                        <g id="Copart" transform="translate(430.000000, 300.000000)">
+                            <g id="CPRT" transform="translate(21.000000, 14.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                                <g id="CN" mask="url(#mask-2)">
+                                    <mask id="mask-5" fill="white">
+                                        <use xlink:href="#path-4"></use>
+                                    </mask>
+                                    <g id="Mask">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    </g>
+                                    <g id="Mask" mask="url(#mask-5)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                        <use fill="#0D5DB8" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    </g>
+                                    <path d="M54.914295,40.005949 C53.764012,41.8139411 52.5825891,43.1689915 51.3747447,44.0550587 C49.7752945,45.313859 47.7615913,45.9508082 45.390253,45.9508082 C43.1161085,45.9508082 41.5770504,45.2638467 40.8098805,43.9003036 C40.2437034,42.9142119 39.9209825,40.6013785 41.6006412,35.1877821 C42.774515,31.566136 44.2069429,28.9145401 45.8696163,27.2981045 C48.0258073,25.1409699 50.5802095,24.0463609 53.4629945,24.0463609 C54.6500791,24.0463609 55.6540998,24.2690572 56.4391986,24.7059572 C57.6734647,25.3995241 58.2877668,26.4592188 58.4321419,28.1454829 L58.520843,29.1815869 L73.8963251,29.1815869 L73.8963251,28.0501764 C73.8963251,22.1600476 72.3789705,18.0609256 69.2772638,15.5320013 C66.4935598,13.1568885 62.2132612,12 56.1910243,12 C48.7769356,12 42.2762791,13.9797325 36.8655136,17.8835234 C31.5047603,21.7901452 27.675516,27.40096 25.4900725,34.5498892 C23.7651197,40.0002872 23.535818,44.5778288 24.8125473,48.1664479 C26.1458943,51.8220645 28.3143525,54.4085501 31.2499806,55.8475835 C34.1082312,57.276237 38.1101595,58 43.1444173,58 C47.3501693,58 51.0123914,57.4168376 54.0112426,56.2750472 C57.0308537,55.17572 59.8853298,53.4677525 62.5086169,51.1851153 C64.9988524,48.9439977 68.4251673,44.8222286 70.0595318,41.0656437 L70.7493242,39.4812915 L55.2483395,39.4812915 L54.914295,40.005949" id="Fill-1" fill="#FFFFFE" mask="url(#mask-5)"></path>
+                                    <g id="Depth" mask="url(#mask-5)" fill-opacity="1" fill="black">
+                                        <use filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
